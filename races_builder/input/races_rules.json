@@ -1,0 +1,842 @@
+[
+ {
+  "ID_Race_Rule": 1,
+  "ID_Race": 294,
+  "Max_Teams": 20,
+  "Min_Riders": 7,
+  "Max_Riders": 7
+ },
+ {
+  "ID_Race_Rule": 2,
+  "ID_Race": 133,
+  "Max_Teams": 22,
+  "Min_Riders": 7,
+  "Max_Riders": 7
+ },
+ {
+  "ID_Race_Rule": 3,
+  "ID_Race": 139,
+  "Max_Teams": 24,
+  "Min_Riders": 7,
+  "Max_Riders": 7
+ },
+ {
+  "ID_Race_Rule": 4,
+  "ID_Race": 91,
+  "Max_Teams": 24,
+  "Min_Riders": 7,
+  "Max_Riders": 7
+ },
+ {
+  "ID_Race_Rule": 5,
+  "ID_Race": 39,
+  "Max_Teams": 25,
+  "Min_Riders": 7,
+  "Max_Riders": 7
+ },
+ {
+  "ID_Race_Rule": 6,
+  "ID_Race": 12,
+  "Max_Teams": 24,
+  "Min_Riders": 7,
+  "Max_Riders": 7
+ },
+ {
+  "ID_Race_Rule": 7,
+  "ID_Race": 173,
+  "Max_Teams": 25,
+  "Min_Riders": 7,
+  "Max_Riders": 7
+ },
+ {
+  "ID_Race_Rule": 8,
+  "ID_Race": 19,
+  "Max_Teams": 20,
+  "Min_Riders": 7,
+  "Max_Riders": 7
+ },
+ {
+  "ID_Race_Rule": 9,
+  "ID_Race": 74,
+  "Max_Teams": 21,
+  "Min_Riders": 7,
+  "Max_Riders": 7
+ },
+ {
+  "ID_Race_Rule": 10,
+  "ID_Race": 5,
+  "Max_Teams": 23,
+  "Min_Riders": 7,
+  "Max_Riders": 7
+ },
+ {
+  "ID_Race_Rule": 11,
+  "ID_Race": 49,
+  "Max_Teams": 25,
+  "Min_Riders": 7,
+  "Max_Riders": 7
+ },
+ {
+  "ID_Race_Rule": 12,
+  "ID_Race": 359,
+  "Max_Teams": 22,
+  "Min_Riders": 7,
+  "Max_Riders": 7
+ },
+ {
+  "ID_Race_Rule": 13,
+  "ID_Race": 93,
+  "Max_Teams": 22,
+  "Min_Riders": 7,
+  "Max_Riders": 7
+ },
+ {
+  "ID_Race_Rule": 14,
+  "ID_Race": 26,
+  "Max_Teams": 21,
+  "Min_Riders": 7,
+  "Max_Riders": 7
+ },
+ {
+  "ID_Race_Rule": 15,
+  "ID_Race": 28,
+  "Max_Teams": 24,
+  "Min_Riders": 7,
+  "Max_Riders": 7
+ },
+ {
+  "ID_Race_Rule": 16,
+  "ID_Race": 405,
+  "Max_Teams": 22,
+  "Min_Riders": 7,
+  "Max_Riders": 7
+ },
+ {
+  "ID_Race_Rule": 17,
+  "ID_Race": 406,
+  "Max_Teams": 22,
+  "Min_Riders": 7,
+  "Max_Riders": 7
+ },
+ {
+  "ID_Race_Rule": 18,
+  "ID_Race": 596,
+  "Max_Teams": 18,
+  "Min_Riders": 6,
+  "Max_Riders": 7
+ },
+ {
+  "ID_Race_Rule": 19,
+  "ID_Race": 145,
+  "Max_Teams": 23,
+  "Min_Riders": 6,
+  "Max_Riders": 7
+ },
+ {
+  "ID_Race_Rule": 20,
+  "ID_Race": 63,
+  "Max_Teams": 25,
+  "Min_Riders": 6,
+  "Max_Riders": 7
+ },
+ {
+  "ID_Race_Rule": 21,
+  "ID_Race": 754,
+  "Max_Teams": 22,
+  "Min_Riders": 5,
+  "Max_Riders": 6
+ },
+ {
+  "ID_Race_Rule": 22,
+  "ID_Race": 421,
+  "Max_Teams": 25,
+  "Min_Riders": 6,
+  "Max_Riders": 7
+ },
+ {
+  "ID_Race_Rule": 23,
+  "ID_Race": 572,
+  "Max_Teams": 25,
+  "Min_Riders": 5,
+  "Max_Riders": 6
+ },
+ {
+  "ID_Race_Rule": 24,
+  "ID_Race": 4,
+  "Max_Teams": 25,
+  "Min_Riders": 7,
+  "Max_Riders": 7
+ },
+ {
+  "ID_Race_Rule": 25,
+  "ID_Race": 236,
+  "Max_Teams": 23,
+  "Min_Riders": 6,
+  "Max_Riders": 7
+ },
+ {
+  "ID_Race_Rule": 26,
+  "ID_Race": 423,
+  "Max_Teams": 25,
+  "Min_Riders": 6,
+  "Max_Riders": 7
+ },
+ {
+  "ID_Race_Rule": 27,
+  "ID_Race": 422,
+  "Max_Teams": 25,
+  "Min_Riders": 6,
+  "Max_Riders": 7
+ },
+ {
+  "ID_Race_Rule": 28,
+  "ID_Race": 32,
+  "Max_Teams": 21,
+  "Min_Riders": 6,
+  "Max_Riders": 7
+ },
+ {
+  "ID_Race_Rule": 29,
+  "ID_Race": 424,
+  "Max_Teams": 25,
+  "Min_Riders": 6,
+  "Max_Riders": 7
+ },
+ {
+  "ID_Race_Rule": 30,
+  "ID_Race": 242,
+  "Max_Teams": 21,
+  "Min_Riders": 5,
+  "Max_Riders": 6
+ },
+ {
+  "ID_Race_Rule": 31,
+  "ID_Race": 251,
+  "Max_Teams": 25,
+  "Min_Riders": 5,
+  "Max_Riders": 6
+ },
+ {
+  "ID_Race_Rule": 32,
+  "ID_Race": 1,
+  "Max_Teams": 22,
+  "Min_Riders": 5,
+  "Max_Riders": 6
+ },
+ {
+  "ID_Race_Rule": 33,
+  "ID_Race": 66,
+  "Max_Teams": 25,
+  "Min_Riders": 6,
+  "Max_Riders": 7
+ },
+ {
+  "ID_Race_Rule": 34,
+  "ID_Race": 305,
+  "Max_Teams": 25,
+  "Min_Riders": 6,
+  "Max_Riders": 7
+ },
+ {
+  "ID_Race_Rule": 35,
+  "ID_Race": 104,
+  "Max_Teams": 22,
+  "Min_Riders": 6,
+  "Max_Riders": 7
+ },
+ {
+  "ID_Race_Rule": 36,
+  "ID_Race": 304,
+  "Max_Teams": 22,
+  "Min_Riders": 6,
+  "Max_Riders": 7
+ },
+ {
+  "ID_Race_Rule": 37,
+  "ID_Race": 381,
+  "Max_Teams": 20,
+  "Min_Riders": 5,
+  "Max_Riders": 7
+ },
+ {
+  "ID_Race_Rule": 38,
+  "ID_Race": 83,
+  "Max_Teams": 20,
+  "Min_Riders": 6,
+  "Max_Riders": 7
+ },
+ {
+  "ID_Race_Rule": 39,
+  "ID_Race": 183,
+  "Max_Teams": 20,
+  "Min_Riders": 6,
+  "Max_Riders": 7
+ },
+ {
+  "ID_Race_Rule": 40,
+  "ID_Race": 21,
+  "Max_Teams": 19,
+  "Min_Riders": 6,
+  "Max_Riders": 7
+ },
+ {
+  "ID_Race_Rule": 42,
+  "ID_Race": 316,
+  "Max_Teams": 17,
+  "Min_Riders": 6,
+  "Max_Riders": 7
+ },
+ {
+  "ID_Race_Rule": 43,
+  "ID_Race": 68,
+  "Max_Teams": 24,
+  "Min_Riders": 6,
+  "Max_Riders": 7
+ },
+ {
+  "ID_Race_Rule": 45,
+  "ID_Race": 69,
+  "Max_Teams": 17,
+  "Min_Riders": 5,
+  "Max_Riders": 6
+ },
+ {
+  "ID_Race_Rule": 46,
+  "ID_Race": 320,
+  "Max_Teams": 21,
+  "Min_Riders": 6,
+  "Max_Riders": 7
+ },
+ {
+  "ID_Race_Rule": 47,
+  "ID_Race": 167,
+  "Max_Teams": 20,
+  "Min_Riders": 6,
+  "Max_Riders": 7
+ },
+ {
+  "ID_Race_Rule": 48,
+  "ID_Race": 166,
+  "Max_Teams": 20,
+  "Min_Riders": 6,
+  "Max_Riders": 7
+ },
+ {
+  "ID_Race_Rule": 49,
+  "ID_Race": 576,
+  "Max_Teams": 21,
+  "Min_Riders": 6,
+  "Max_Riders": 7
+ },
+ {
+  "ID_Race_Rule": 50,
+  "ID_Race": 593,
+  "Max_Teams": 24,
+  "Min_Riders": 6,
+  "Max_Riders": 7
+ },
+ {
+  "ID_Race_Rule": 51,
+  "ID_Race": 343,
+  "Max_Teams": 25,
+  "Min_Riders": 6,
+  "Max_Riders": 7
+ },
+ {
+  "ID_Race_Rule": 52,
+  "ID_Race": 36,
+  "Max_Teams": 21,
+  "Min_Riders": 6,
+  "Max_Riders": 7
+ },
+ {
+  "ID_Race_Rule": 53,
+  "ID_Race": 220,
+  "Max_Teams": 20,
+  "Min_Riders": 6,
+  "Max_Riders": 7
+ },
+ {
+  "ID_Race_Rule": 54,
+  "ID_Race": 344,
+  "Max_Teams": 16,
+  "Min_Riders": 6,
+  "Max_Riders": 7
+ },
+ {
+  "ID_Race_Rule": 55,
+  "ID_Race": 318,
+  "Max_Teams": 23,
+  "Min_Riders": 6,
+  "Max_Riders": 7
+ },
+ {
+  "ID_Race_Rule": 56,
+  "ID_Race": 559,
+  "Max_Teams": 23,
+  "Min_Riders": 6,
+  "Max_Riders": 7
+ },
+ {
+  "ID_Race_Rule": 57,
+  "ID_Race": 859,
+  "Max_Teams": 24,
+  "Min_Riders": 6,
+  "Max_Riders": 7
+ },
+ {
+  "ID_Race_Rule": 58,
+  "ID_Race": 269,
+  "Max_Teams": 17,
+  "Min_Riders": 6,
+  "Max_Riders": 7
+ },
+ {
+  "ID_Race_Rule": 59,
+  "ID_Race": 8,
+  "Max_Teams": 21,
+  "Min_Riders": 6,
+  "Max_Riders": 6
+ },
+ {
+  "ID_Race_Rule": 60,
+  "ID_Race": 38,
+  "Max_Teams": 21,
+  "Min_Riders": 6,
+  "Max_Riders": 7
+ },
+ {
+  "ID_Race_Rule": 61,
+  "ID_Race": 776,
+  "Max_Teams": 14,
+  "Min_Riders": 5,
+  "Max_Riders": 6
+ },
+ {
+  "ID_Race_Rule": 62,
+  "ID_Race": 789,
+  "Max_Teams": 25,
+  "Min_Riders": 5,
+  "Max_Riders": 6
+ },
+ {
+  "ID_Race_Rule": 63,
+  "ID_Race": 96,
+  "Max_Teams": 18,
+  "Min_Riders": 6,
+  "Max_Riders": 7
+ },
+ {
+  "ID_Race_Rule": 64,
+  "ID_Race": 44,
+  "Max_Teams": 21,
+  "Min_Riders": 6,
+  "Max_Riders": 7
+ },
+ {
+  "ID_Race_Rule": 65,
+  "ID_Race": 457,
+  "Max_Teams": 23,
+  "Min_Riders": 5,
+  "Max_Riders": 6
+ },
+ {
+  "ID_Race_Rule": 66,
+  "ID_Race": 106,
+  "Max_Teams": 18,
+  "Min_Riders": 6,
+  "Max_Riders": 7
+ },
+ {
+  "ID_Race_Rule": 67,
+  "ID_Race": 579,
+  "Max_Teams": 23,
+  "Min_Riders": 6,
+  "Max_Riders": 7
+ },
+ {
+  "ID_Race_Rule": 68,
+  "ID_Race": 260,
+  "Max_Teams": 19,
+  "Min_Riders": 6,
+  "Max_Riders": 7
+ },
+ {
+  "ID_Race_Rule": 69,
+  "ID_Race": 334,
+  "Max_Teams": 21,
+  "Min_Riders": 6,
+  "Max_Riders": 7
+ },
+ {
+  "ID_Race_Rule": 70,
+  "ID_Race": 335,
+  "Max_Teams": 21,
+  "Min_Riders": 5,
+  "Max_Riders": 6
+ },
+ {
+  "ID_Race_Rule": 71,
+  "ID_Race": 328,
+  "Max_Teams": 20,
+  "Min_Riders": 6,
+  "Max_Riders": 7
+ },
+ {
+  "ID_Race_Rule": 72,
+  "ID_Race": 325,
+  "Max_Teams": 21,
+  "Min_Riders": 6,
+  "Max_Riders": 7
+ },
+ {
+  "ID_Race_Rule": 73,
+  "ID_Race": 410,
+  "Max_Teams": 24,
+  "Min_Riders": 5,
+  "Max_Riders": 6
+ },
+ {
+  "ID_Race_Rule": 74,
+  "ID_Race": 408,
+  "Max_Teams": 25,
+  "Min_Riders": 6,
+  "Max_Riders": 7
+ },
+ {
+  "ID_Race_Rule": 75,
+  "ID_Race": 456,
+  "Max_Teams": 18,
+  "Min_Riders": 5,
+  "Max_Riders": 6
+ },
+ {
+  "ID_Race_Rule": 76,
+  "ID_Race": 411,
+  "Max_Teams": 18,
+  "Min_Riders": 6,
+  "Max_Riders": 6
+ },
+ {
+  "ID_Race_Rule": 77,
+  "ID_Race": 309,
+  "Max_Teams": 23,
+  "Min_Riders": 6,
+  "Max_Riders": 7
+ },
+ {
+  "ID_Race_Rule": 78,
+  "ID_Race": 420,
+  "Max_Teams": 25,
+  "Min_Riders": 6,
+  "Max_Riders": 7
+ },
+ {
+  "ID_Race_Rule": 79,
+  "ID_Race": 24,
+  "Max_Teams": 25,
+  "Min_Riders": 6,
+  "Max_Riders": 7
+ },
+ {
+  "ID_Race_Rule": 80,
+  "ID_Race": 2,
+  "Max_Teams": 25,
+  "Min_Riders": 6,
+  "Max_Riders": 7
+ },
+ {
+  "ID_Race_Rule": 81,
+  "ID_Race": 416,
+  "Max_Teams": 15,
+  "Min_Riders": 6,
+  "Max_Riders": 7
+ },
+ {
+  "ID_Race_Rule": 82,
+  "ID_Race": 317,
+  "Max_Teams": 25,
+  "Min_Riders": 6,
+  "Max_Riders": 7
+ },
+ {
+  "ID_Race_Rule": 83,
+  "ID_Race": 319,
+  "Max_Teams": 24,
+  "Min_Riders": 6,
+  "Max_Riders": 7
+ },
+ {
+  "ID_Race_Rule": 84,
+  "ID_Race": 309,
+  "Max_Teams": 23,
+  "Min_Riders": 6,
+  "Max_Riders": 7
+ },
+ {
+  "ID_Race_Rule": 85,
+  "ID_Race": 293,
+  "Max_Teams": 21,
+  "Min_Riders": 6,
+  "Max_Riders": 7
+ },
+ {
+  "ID_Race_Rule": 86,
+  "ID_Race": 302,
+  "Max_Teams": 21,
+  "Min_Riders": 6,
+  "Max_Riders": 7
+ },
+ {
+  "ID_Race_Rule": 87,
+  "ID_Race": 298,
+  "Max_Teams": 15,
+  "Min_Riders": 6,
+  "Max_Riders": 7
+ },
+ {
+  "ID_Race_Rule": 88,
+  "ID_Race": 609,
+  "Max_Teams": 24,
+  "Min_Riders": 6,
+  "Max_Riders": 6
+ },
+ {
+  "ID_Race_Rule": 89,
+  "ID_Race": 324,
+  "Max_Teams": 16,
+  "Min_Riders": 6,
+  "Max_Riders": 7
+ },
+ {
+  "ID_Race_Rule": 90,
+  "ID_Race": 380,
+  "Max_Teams": 19,
+  "Min_Riders": 6,
+  "Max_Riders": 7
+ },
+ {
+  "ID_Race_Rule": 91,
+  "ID_Race": 407,
+  "Max_Teams": 22,
+  "Min_Riders": 6,
+  "Max_Riders": 7
+ },
+ {
+  "ID_Race_Rule": 92,
+  "ID_Race": 601,
+  "Max_Teams": 26,
+  "Min_Riders": 5,
+  "Max_Riders": 5
+ },
+ {
+  "ID_Race_Rule": 93,
+  "ID_Race": 602,
+  "Max_Teams": 18,
+  "Min_Riders": 6,
+  "Max_Riders": 7
+ },
+ {
+  "ID_Race_Rule": 94,
+  "ID_Race": 551,
+  "Max_Teams": 19,
+  "Min_Riders": 6,
+  "Max_Riders": 7
+ },
+ {
+  "ID_Race_Rule": 95,
+  "ID_Race": 43,
+  "Max_Teams": 22,
+  "Min_Riders": 6,
+  "Max_Riders": 7
+ },
+ {
+  "ID_Race_Rule": 96,
+  "ID_Race": 297,
+  "Max_Teams": 20,
+  "Min_Riders": 6,
+  "Max_Riders": 7
+ },
+ {
+  "ID_Race_Rule": 97,
+  "ID_Race": 188,
+  "Max_Teams": 21,
+  "Min_Riders": 6,
+  "Max_Riders": 7
+ },
+ {
+  "ID_Race_Rule": 98,
+  "ID_Race": 564,
+  "Max_Teams": 22,
+  "Min_Riders": 6,
+  "Max_Riders": 7
+ },
+ {
+  "ID_Race_Rule": 99,
+  "ID_Race": 580,
+  "Max_Teams": 22,
+  "Min_Riders": 6,
+  "Max_Riders": 7
+ },
+ {
+  "ID_Race_Rule": 100,
+  "ID_Race": 566,
+  "Max_Teams": 23,
+  "Min_Riders": 6,
+  "Max_Riders": 6
+ },
+ {
+  "ID_Race_Rule": 101,
+  "ID_Race": 160,
+  "Max_Teams": 22,
+  "Min_Riders": 6,
+  "Max_Riders": 7
+ },
+ {
+  "ID_Race_Rule": 102,
+  "ID_Race": 403,
+  "Max_Teams": 24,
+  "Min_Riders": 6,
+  "Max_Riders": 7
+ },
+ {
+  "ID_Race_Rule": 103,
+  "ID_Race": 565,
+  "Max_Teams": 23,
+  "Min_Riders": 6,
+  "Max_Riders": 7
+ },
+ {
+  "ID_Race_Rule": 104,
+  "ID_Race": 699,
+  "Max_Teams": 21,
+  "Min_Riders": 6,
+  "Max_Riders": 7
+ },
+ {
+  "ID_Race_Rule": 105,
+  "ID_Race": 102,
+  "Max_Teams": 24,
+  "Min_Riders": 6,
+  "Max_Riders": 7
+ },
+ {
+  "ID_Race_Rule": 106,
+  "ID_Race": 169,
+  "Max_Teams": 25,
+  "Min_Riders": 6,
+  "Max_Riders": 7
+ },
+ {
+  "ID_Race_Rule": 107,
+  "ID_Race": 6,
+  "Max_Teams": 25,
+  "Min_Riders": 6,
+  "Max_Riders": 7
+ },
+ {
+  "ID_Race_Rule": 108,
+  "ID_Race": 153,
+  "Max_Teams": 24,
+  "Min_Riders": 6,
+  "Max_Riders": 7
+ },
+ {
+  "ID_Race_Rule": 110,
+  "ID_Race": 367,
+  "Max_Teams": 21,
+  "Min_Riders": 6,
+  "Max_Riders": 7
+ },
+ {
+  "ID_Race_Rule": 111,
+  "ID_Race": 165,
+  "Max_Teams": 21,
+  "Min_Riders": 6,
+  "Max_Riders": 7
+ },
+ {
+  "ID_Race_Rule": 112,
+  "ID_Race": 92,
+  "Max_Teams": 22,
+  "Min_Riders": 6,
+  "Max_Riders": 7
+ },
+ {
+  "ID_Race_Rule": 113,
+  "ID_Race": 128,
+  "Max_Teams": 19,
+  "Min_Riders": 6,
+  "Max_Riders": 7
+ },
+ {
+  "ID_Race_Rule": 114,
+  "ID_Race": 27,
+  "Max_Teams": 18,
+  "Min_Riders": 6,
+  "Max_Riders": 7
+ },
+ {
+  "ID_Race_Rule": 115,
+  "ID_Race": 98,
+  "Max_Teams": 22,
+  "Min_Riders": 6,
+  "Max_Riders": 7
+ },
+ {
+  "ID_Race_Rule": 116,
+  "ID_Race": 99,
+  "Max_Teams": 22,
+  "Min_Riders": 6,
+  "Max_Riders": 7
+ },
+ {
+  "ID_Race_Rule": 118,
+  "ID_Race": 13,
+  "Max_Teams": 25,
+  "Min_Riders": 6,
+  "Max_Riders": 7
+ },
+ {
+  "ID_Race_Rule": 119,
+  "ID_Race": 497,
+  "Max_Teams": 17,
+  "Min_Riders": 6,
+  "Max_Riders": 7
+ },
+ {
+  "ID_Race_Rule": 120,
+  "ID_Race": 587,
+  "Max_Teams": 23,
+  "Min_Riders": 6,
+  "Max_Riders": 7
+ },
+ {
+  "ID_Race_Rule": 121,
+  "ID_Race": 255,
+  "Max_Teams": 16,
+  "Min_Riders": 6,
+  "Max_Riders": 7
+ },
+ {
+  "ID_Race_Rule": 122,
+  "ID_Race": 40,
+  "Max_Teams": 17,
+  "Min_Riders": 6,
+  "Max_Riders": 7
+ },
+ {
+  "ID_Race_Rule": 123,
+  "ID_Race": 301,
+  "Max_Teams": 17,
+  "Min_Riders": 6,
+  "Max_Riders": 7
+ },
+ {
+  "ID_Race_Rule": 124,
+  "ID_Race": 458,
+  "Max_Teams": 18,
+  "Min_Riders": 6,
+  "Max_Riders": 7
+ }
+]
